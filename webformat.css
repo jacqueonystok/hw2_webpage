@@ -44,8 +44,13 @@ h4.title {
 ul { margin:0px; padding:0; list-style:bullet; }
 li { margin-left:20px; margin-bottom:5px; padding:0;  }
 
+<<<<<<< HEAD
 a { text-decoration:underline; font-weight: bold; }
 a:link, a:visited { color:#fff ; }	
+=======
+a { text-decoration:none; font-weight: bold; }
+a:link, a:visited { color:#000000 ; }	
+>>>>>>> webformat.css
 a:link.resume , a:visited.resume  { color:black; text-decoration:none; }	
 a:hover, a:hover.resume { color: #7B68EE; background-color: #DCDCDC; text-decoration: none; }	
 
@@ -61,14 +66,21 @@ a:hover.tag { color: #7B68EE; background-color:#DCDCDC; text-decoration: none; }
 .pagebreak { display:none; }
 #printheader { display:none; }
 
+<<<<<<< HEAD
 #wrap {margin:0 auto; background: #D8BFD8; border-left: double 10px black; border-right: double 10px black;  }
 
 #header { background:#ddd; padding:5px 10px; text-align:center }
+=======
+#wrap {width:1240px; margin:0 auto; background: 	#D8BFD8; border-left: double 10px black; border-right: double 10px black;  }
+
+#header { background:#ddd; padding:5px 10px;  }
+>>>>>>> webformat.css
 
 #nav { background:#c99; padding:5px 10px; text-align:center; }
 
 #nav li  { display: inline; list-style-type: none; padding-right: 20px; font-size: 14pt; font-weight:normal; font-variant:small-caps;}
 
+<<<<<<< HEAD
 #main {background: #D8BFD8; float:left; width:580px; padding-top:0px; padding-left:10px; padding-right:10px; padding-bottom:2px; margin-bottom:0; height:1275px;  text-align:center}
 
 #resume {background: #D8BFD8; margin:auto; padding:10px; text-align:left;  }
@@ -78,6 +90,17 @@ a:hover.tag { color: #7B68EE; background-color:#DCDCDC; text-decoration: none; }
 #footer { background:#F5F5DC; clear:both; padding:5px 5px;  text-align:center}
 
 
+=======
+#main {background: #D8BFD8; float:left; width:580px; padding-top:0px; padding-left:10px; padding-right:10px; padding-bottom:2px; margin-bottom:0; height:3050px; }
+
+#resume {background: #D8BFD8; width:900px; margin:auto; padding:2px; text-align:left; }
+
+#lsidebar { background: 	#FFE6CC; float:left; width:500px; padding:0px; }
+
+#footer { background:#F5F5DC; clear:both; padding:5px 5px; }
+
+#footer p { margin:0; font-style:italic; text-align:center; font-size:small; }
+>>>>>>> webformat.css
 
 /* Star hack for IE 6 bug */
 * html #footer { height:1px; }
@@ -103,3 +126,8 @@ a:hover.tag { color: #7B68EE; background-color:#DCDCDC; text-decoration: none; }
 			margin-bottom: 20px;
 			text-align: center;
 			}
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> webformat.css
