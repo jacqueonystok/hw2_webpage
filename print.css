@@ -16,7 +16,7 @@ li { margin-left:20px; margin-bottom:5px; padding:0;  }
 
 #nav, #sidebar, #footer { display: none; }
 
-#wrap {width: auto; margin:-25pt; border:0; }
+#wrap {width: auto; margin:25pt; border:0; }
 
 #printheader { display:block; text-align:center; float:none !important; padding-top:10px; padding-bottom:0;}
 .printonly {display:block;}
